@@ -1,7 +1,7 @@
 DIRECTIONS: Install OpenCV3 with Python3 with FFMPEG
 
 Method 1: Unsuccessful
-Method 2: Successful
+Method 2: Unsuccessful
 
 
 METHOD 1:
@@ -55,8 +55,8 @@ ImportError: No module named ‘cv2’
 
 
 METHOD 2:
-SUCCESSFUL
-
+UNSUCCESSFUL
+NOTE: Does not come compiled with FFMPEG
 
 INSTALLATION STEPS TAKEN/COMMANDS GIVEN:
 
