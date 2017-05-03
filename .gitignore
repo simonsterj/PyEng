@@ -21,6 +21,12 @@ $RECYCLE.BIN/
 # OSX
 # =========================
 
+bin/
+include/
+lib/
+pip-selfcheck.json
+.Python
+
 .DS_Store
 .AppleDouble
 .LSOverride
