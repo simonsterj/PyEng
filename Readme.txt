@@ -1,8 +1,3 @@
-File: Pandas/Obesity.py
-Error: 
-
-Probable Cause: Library Y Missing/ Python 2 vs 3 problem/ IDK
-
 File: Image_Video/blur.py
 Error: image = cv2.imread(sys.argv[1])
 	IndexError: list index out of range
